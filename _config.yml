@@ -1,0 +1,28 @@
+name: nidobirds
+favicon: null
+layout_spectrum: 0.6319249749649316
+typography_spectrum: 0.48392201284877956
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2016147947870195
+  lightness: 0.24040842684917152
+  saturation: 0.5075363516807556
+  rhythmicContrast: 0.6983181072864681
+purpose: []
